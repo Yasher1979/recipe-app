@@ -1,0 +1,7 @@
+recipe-app/
+├── package.json
+└── src/
+      ├── App.tsx
+      ├── RecipeCard.tsx
+      ├── RecipeDetailModal.tsx
+      └── index.css
