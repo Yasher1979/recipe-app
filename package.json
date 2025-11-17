@@ -1,7 +1,16 @@
-recipe-app/
-├── package.json
-└── src/
-      ├── App.tsx
-      ├── RecipeCard.tsx
-      ├── RecipeDetailModal.tsx
-      └── index.css
+{
+  "name": "recipe-cost-manager",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "browser-image-compression": "^2.0.0",
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.254.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
